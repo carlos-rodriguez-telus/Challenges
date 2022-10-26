@@ -12,3 +12,5 @@ Change the input under "input" prop in [index.js](https://github.com/carlos-rodr
 
 - Ensure Question: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/EnsureQuestion.js)
 - Reverse Sentence: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/ReverseWords.js)
+- Smallest Integer: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/SmallestInteger.js)
+- Odd or Even: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/OddOrEven.js)
