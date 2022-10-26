@@ -1,6 +1,6 @@
 # My personal CoreCode weekly challenges repository
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Repository for the weekly challenges.
 
 ## How to use?
 
@@ -10,5 +10,5 @@ Change the input under "input" prop in [index.js](https://github.com/carlos-rodr
 
 ### Week `1` Challenges
 
-- Ensure Question: (https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/EnsureQuestion.js)
-- Reverse Sentence: (https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/ReverseWords.js)
+- Ensure Question: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/EnsureQuestion.js)
+- Reverse Sentence: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/ReverseWords.js)
