@@ -1,5 +1,3 @@
-import React from "react";
-
 function ReverseWords(props){
     let input = String(props.input).split(" ");
     let output = [...input].reverse().join(" ");

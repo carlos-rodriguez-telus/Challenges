@@ -1,5 +1,3 @@
-import React from "react";
-
 function OddOrEven(props){
     let array = [...props.input];
     let total = array.reduce((a,b) => a+b);
