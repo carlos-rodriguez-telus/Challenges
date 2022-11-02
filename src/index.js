@@ -7,24 +7,27 @@ import ReverseWords from './components/ReverseWords';
 import SmallestInteger from './components/SmallestInteger';
 import WellOfIdeas from './components/WellOfIdeas';
 import ManagingEvents from './components/ManagingEvents';
+import WishList from './components/WishList';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* Week 1 */}
     <EnsureQuestion input="Yes"/>
-    <br />
+    <hr></hr>
     <ReverseWords input="The quick gray fox jump over the lazy dog"/>
-    <br />
+    <hr></hr>
     <SmallestInteger input={[9, 0, 1, 15, -350, 88, 22, -5, -30, 55, 36]}/>
-    <br />
+    <hr></hr>
     <OddOrEven input={[0, -1, -5]}/>    
-    <br />
     {/* Week 2 */}
+    <hr></hr>
     <Palindrome input="123456"/>
-    <br />
+    <hr></hr>
     <WellOfIdeas input={["bad","bad","bad","good"]}/>
-    <br />
+    <hr></hr>
     <ManagingEvents />
+    <hr></hr>
+    <WishList />
   </React.StrictMode>
 );
