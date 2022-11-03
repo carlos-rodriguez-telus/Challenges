@@ -18,4 +18,7 @@ Change the input under "input" prop in [index.js](https://github.com/carlos-rodr
 - Palindrome: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/Palindrome.js)
 - Well of Ideas: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/WellOfIdeas.js)
 - React Manage Events: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/ManagingEvents.js)
-- Santa's Wish List(working): [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/WishList.js)
+- Santa's Wish List (in progress): [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/WishList.js)
+
+### Week `3` Challenges
+- Build Search Filter: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/SearchFilter.js)

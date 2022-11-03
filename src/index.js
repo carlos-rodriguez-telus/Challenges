@@ -8,6 +8,7 @@ import SmallestInteger from './components/SmallestInteger';
 import WellOfIdeas from './components/WellOfIdeas';
 import ManagingEvents from './components/ManagingEvents';
 import WishList from './components/WishList';
+import SearchFilter from './components/SearchFilter';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -29,5 +30,7 @@ root.render(
     <ManagingEvents />
     <hr></hr>
     <WishList />
+    <hr></hr>
+    <SearchFilter input={["apple", "orange", "peach", "pineapple", "acorn", "bluberry", "strawberry"]}/>
   </React.StrictMode>
 );
