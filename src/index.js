@@ -9,6 +9,7 @@ import WellOfIdeas from './components/WellOfIdeas';
 import ManagingEvents from './components/ManagingEvents';
 import WishList from './components/WishList';
 import SearchFilter from './components/SearchFilter';
+import FetchData from './components/FetchData';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -32,5 +33,7 @@ root.render(
     <WishList />
     <hr></hr>
     <SearchFilter input={["apple", "orange", "peach", "pineapple", "acorn", "bluberry", "strawberry"]}/>
+    <hr></hr>
+    <FetchData />
   </React.StrictMode>
 );
