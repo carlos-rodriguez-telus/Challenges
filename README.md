@@ -23,3 +23,5 @@ Change the input under "input" prop in [index.js](https://github.com/carlos-rodr
 ### Week `3` Challenges
 - Build Search Filter: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/SearchFilter.js)
 - Fetch Data: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/FetchData.js)
+- React Router: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/pages/Blog.js)
+- Redux Lecture: [Link](https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5);

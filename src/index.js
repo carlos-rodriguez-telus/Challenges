@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+
 import EnsureQuestion from './components/EnsureQuestion';
 import OddOrEven from './components/OddOrEven';
 import Palindrome from './components/Palindrome';
@@ -10,6 +11,8 @@ import ManagingEvents from './components/ManagingEvents';
 import WishList from './components/WishList';
 import SearchFilter from './components/SearchFilter';
 import FetchData from './components/FetchData';
+import Blog from './pages/Blog';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -35,5 +38,7 @@ root.render(
     <SearchFilter input={["apple", "orange", "peach", "pineapple", "acorn", "bluberry", "strawberry"]}/>
     <hr></hr>
     <FetchData />
+    <hr></hr>
+    <Blog />
   </React.StrictMode>
 );
