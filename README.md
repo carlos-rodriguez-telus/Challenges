@@ -25,3 +25,7 @@ Change the input under "input" prop in [index.js](https://github.com/carlos-rodr
 - Fetch Data: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/FetchData.js)
 - React Router: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/pages/Blog.js)
 - Redux Lecture: [Link](https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5);
+
+### Week `4` Challenges
+- Two To One: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/TwoOne.js)
+- Leap Year: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/LeapYear.js)

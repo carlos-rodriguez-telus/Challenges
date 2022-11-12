@@ -12,6 +12,8 @@ import WishList from './components/WishList';
 import SearchFilter from './components/SearchFilter';
 import FetchData from './components/FetchData';
 import Blog from './pages/Blog';
+import TwoOne from './components/TwoOne';
+import LeapYear from './components/LeapYear';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -40,5 +42,9 @@ root.render(
     <FetchData />
     <hr></hr>
     <Blog />
+    <hr></hr>
+    <TwoOne s1={"aabbcc"} s2={"zzyyxxwww"} />
+    <hr></hr>
+    <LeapYear year={"1900"}/>
   </React.StrictMode>
 );
