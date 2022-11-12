@@ -14,6 +14,7 @@ import FetchData from './components/FetchData';
 import Blog from './pages/Blog';
 import TwoOne from './components/TwoOne';
 import LeapYear from './components/LeapYear';
+import Maximum from './components/Maximum';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -46,5 +47,7 @@ root.render(
     <TwoOne s1={"aabbcc"} s2={"zzyyxxwww"} />
     <hr></hr>
     <LeapYear year={"1900"}/>
+    <hr></hr>
+    <Maximum a1={["", "bbllkw", "oox", "ejjuyyy", "plmiis", "xxxzgpsssa", "xxwwkktt", "znnnnfqknaz", "qqquuhii", "dvvvwz","a"]} a2={["cccooommaaqqoxii", "gggqaffhhh", "tttoowwwmmww",""]}/>
   </React.StrictMode>
 );
