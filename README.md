@@ -6,6 +6,8 @@ Repository for the weekly challenges.
 
 Change the input under "input" prop in [index.js](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/index.js) and run `npm start`, you will see the input and output of any challenge on the main page.
 
+## Project Information
+Project Kanban Link: [Click Me!](https://trello.com/invite/b/OcutbOpB/ATTI095e6fd94906e6591ccd5ec7f9f6c9068E5E5DB0/proyecto-react)
 ## Index for challenges
 
 ### Week `1` Challenges
