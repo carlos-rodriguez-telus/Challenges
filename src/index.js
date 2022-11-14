@@ -15,6 +15,7 @@ import Blog from './pages/Blog';
 import TwoOne from './components/TwoOne';
 import LeapYear from './components/LeapYear';
 import Maximum from './components/Maximum';
+import Base64 from './components/Base64';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -48,6 +49,9 @@ root.render(
     <hr></hr>
     <LeapYear year={"1900"}/>
     <hr></hr>
-    <Maximum a1={["", "bbllkw", "oox", "ejjuyyy", "plmiis", "xxxzgpsssa", "xxwwkktt", "znnnnfqknaz", "qqquuhii", "dvvvwz","a"]} a2={["cccooommaaqqoxii", "gggqaffhhh", "tttoowwwmmww",""]}/>
+    <Maximum a1={["bbllkw", "oox", "ejjuyyy", "plmiis", "xxxzgpsssa", "xxwwkktt", "znnnnfqknaz", "qqquuhii", "dvvvwz","a"]} a2={["cccooommaaqqoxii", "gggqaffhhh", "tttoowwwmmww"]}/>
+    <hr></hr>
+    {/* W4D4 */}
+    <Base64 input={"WIN"}/>
   </React.StrictMode>
 );

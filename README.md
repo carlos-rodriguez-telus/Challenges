@@ -32,3 +32,4 @@ Project Kanban Link: [Click Me!](https://trello.com/invite/b/OcutbOpB/ATTI095e6f
 - Two To One: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/TwoOne.js)
 - Leap Year: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/LeapYear.js)
 - Maximum Length Difference: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/Maximum.js)
+- Base64 to Base10: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/Base64.js)

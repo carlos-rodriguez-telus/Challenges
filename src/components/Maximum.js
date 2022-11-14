@@ -20,7 +20,16 @@ function Maximum({ a1, a2 }) {
     }
   }
 
-  return <div>Maximun length difference of A1 and A2 = {findMaxLenDiff()}</div>;
+  return <div>
+      <div>
+      inputs:  
+      <br/> A1: "{a1.join(", ")}"
+      <br/> A2: "{a2.join(", ")}"
+      </div>
+      <div>
+      Maximun length difference of A1 and A2 = {findMaxLenDiff()}
+      </div>
+    </div>;
 }
 
 export default Maximum;
