@@ -37,3 +37,4 @@ Project Kanban Link: [Click Me!](https://trello.com/invite/b/OcutbOpB/ATTI095e6f
 ### Week `5` Challenges
 - Fun with list(map): [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/FunMap.js)
 - Separating Strings: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/SeparatingString.js)
+- Hightest Scoring Word: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/HightestWord.js)

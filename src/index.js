@@ -18,6 +18,7 @@ import Maximum from './components/Maximum';
 import Base64 from './components/Base64';
 import FunMap from './components/FunMap';
 import SeparatingString from './components/SeparatingString';
+import HightestWord from './components/HightestWord';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -57,8 +58,10 @@ root.render(
     <Base64 input={"WIN"}/>
     {/* W5 */}
     <hr></hr>
-    <FunMap/>
+    <FunMap/> 
     <hr></hr>
     <SeparatingString input={"el barto"}/>
+    <hr></hr>
+    <HightestWord input={"el barto duerme zzz en la taberna la jacaranda"}/>
   </React.StrictMode>
 );
