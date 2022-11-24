@@ -16,6 +16,8 @@ import TwoOne from './components/TwoOne';
 import LeapYear from './components/LeapYear';
 import Maximum from './components/Maximum';
 import Base64 from './components/Base64';
+import FunMap from './components/FunMap';
+import SeparatingString from './components/SeparatingString';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -50,8 +52,13 @@ root.render(
     <LeapYear year={"1900"}/>
     <hr></hr>
     <Maximum a1={["bbllkw", "oox", "ejjuyyy", "plmiis", "xxxzgpsssa", "xxwwkktt", "znnnnfqknaz", "qqquuhii", "dvvvwz","a"]} a2={["cccooommaaqqoxii", "gggqaffhhh", "tttoowwwmmww"]}/>
-    <hr></hr>
     {/* W4D4 */}
+    <hr></hr>
     <Base64 input={"WIN"}/>
+    {/* W5 */}
+    <hr></hr>
+    <FunMap/>
+    <hr></hr>
+    <SeparatingString input={"el barto"}/>
   </React.StrictMode>
 );

@@ -33,3 +33,7 @@ Project Kanban Link: [Click Me!](https://trello.com/invite/b/OcutbOpB/ATTI095e6f
 - Leap Year: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/LeapYear.js)
 - Maximum Length Difference: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/Maximum.js)
 - Base64 to Base10: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/Base64.js)
+
+### Week `5` Challenges
+- Fun with list(map): [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/FunMap.js)
+- Separating Strings: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/SeparatingString.js)
