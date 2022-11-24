@@ -35,6 +35,7 @@ Project Kanban Link: [Click Me!](https://trello.com/invite/b/OcutbOpB/ATTI095e6f
 - Base64 to Base10: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/Base64.js)
 
 ### Week `5` Challenges
-- Fun with list(map): [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/FunMap.js)
+- Fun with list (in progress): [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/FunMap.js)
 - Separating Strings: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/SeparatingString.js)
 - Hightest Scoring Word: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/HightestWord.js)
+- Where is my parent?: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/Parent.js)
