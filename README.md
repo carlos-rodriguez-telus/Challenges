@@ -39,3 +39,9 @@ Project Kanban Link: [Click Me!](https://trello.com/invite/b/OcutbOpB/ATTI095e6f
 - Separating Strings: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/SeparatingString.js)
 - Hightest Scoring Word: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/HightestWord.js)
 - Where is my parent?: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/Parent.js)
+
+### Week `6` Challenges
+- Expressions Matter:
+- Sudoku Validator:
+- Even or Odd (SQL): `SELECT num.number, CASE WHEN MOD(num.number,2) = 0 THEN 'Even' ELSE 'Odd' END is_even FROM numbers num` 
+- Returning Strings (SQL): `SELECT CONCAT(CONCAT('Hello, ', p.name), ' how are you doing today?') greeting FROM person p;`
