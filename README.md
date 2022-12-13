@@ -45,3 +45,9 @@ Project Kanban Link: [Click Me!](https://trello.com/invite/b/OcutbOpB/ATTI095e6f
 - Sudoku Validator:
 - Even or Odd (SQL): `SELECT num.number, CASE WHEN MOD(num.number,2) = 0 THEN 'Even' ELSE 'Odd' END is_even FROM numbers num` 
 - Returning Strings (SQL): `SELECT CONCAT(CONCAT('Hello, ', p.name), ' how are you doing today?') greeting FROM person p;`
+
+### Week `7` Challenges
+- Simple NULL handling (SQL): `SELECT id, CASE WHEN name = '' THEN '[product name not found]' ELSE name END, price, CASE WHEN card_name = '' THEN '[card name not found]' ELSE card_name END, card_number, transaction_date FROM eusales WHERE price IS NOT NULL OR price > 50;`
+- TakeWhile Function:
+- The Supermarket Queue:
+- Digital Root: [Solution](https://github.com/carlos-rodriguez-telus/Challenges/blob/main/src/components/DigitalRoot.js)

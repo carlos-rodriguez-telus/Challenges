@@ -20,6 +20,7 @@ import FunMap from './components/FunMap';
 import SeparatingString from './components/SeparatingString';
 import HightestWord from './components/HightestWord';
 import Parent from './components/Parent';
+import DigitalRoot from './components/DigitalRoot';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -66,5 +67,7 @@ root.render(
     <HightestWord input={"el barto duerme zzz en la taberna la jacaranda"}/>
     <hr></hr>
     <Parent input={"bbbBbZabaBzazA"}/>
+    <hr></hr>
+    <DigitalRoot input={"132189"}/>
   </React.StrictMode>
 );
