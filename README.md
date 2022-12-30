@@ -8,6 +8,9 @@ Change the input under "input" prop in [index.js](https://github.com/carlos-rodr
 
 ## Project Information
 Project Kanban Link: [Click Me!](https://trello.com/invite/b/OcutbOpB/ATTI095e6fd94906e6591ccd5ec7f9f6c9068E5E5DB0/proyecto-react)
+Project Frontend Link: [Click Me!](https://github.com/carlos-rodriguez-telus/misfit)
+Project Backend Link: [Click Me!](https://github.com/carlos-rodriguez-telus/misfit-be)
+
 ## Index for challenges
 
 ### Week `1` Challenges
